@@ -1,3 +1,3 @@
 # potential-broccoli
 
-#cool stuff here bro. 
+Repo for me and the missus. 
